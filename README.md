@@ -1,6 +1,5 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-
 <h1 align="center">Hi 👋, I'm Saad Khan</h1>
 <h3 align="center">AI Engineer | Generative AI | RAG | LLM | Cloud Deployment | From Karachi, Pakistan</h3>
 
@@ -15,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Certified+AI+Engineer;2%2B+Years+Experience;LLM+%26+RAG+Specialist;Cloud+Deployment+(AWS+%26+Azure);OpenAI+%7C+LangChain+%7C+ChromaDB;Python+Developer;Always+learning+%7C+Always+Evolving&center=true&width=600&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Certified+AI+Engineer;4+Years+Experience;LLM+%26+RAG+Specialist;Cloud+Deployment+(AWS+%26+Azure);OpenAI+%7C+LangChain+%7C+ChromaDB;Python+Developer;Always+learning+%7C+Always+Evolving&center=true&width=600&height=50">
   </a>
 </p>
 
@@ -24,8 +23,8 @@
 ---
 
 ### 🚀 About Me
-- 🔹 AI Engineer with **expertise in LLMs, RAG, and Cloud**  
-- 🔹 **Certified AI Engineer (DataCamp)** with 2+ years of experience  
+- 🔹 AI Engineer with **4 years of hands-on experience** in AI & cloud  
+- 🔹 **Certified AI Engineer (DataCamp)** specializing in **LLMs, RAG, and Generative AI**  
 - 🔹 Skilled in **Python, LangChain, OpenAI, ChromaDB, FastAPI, Flask, React**  
 - 🔹 Experienced with **Azure & AWS cloud deployment**  
 - 🔹 Passionate about **solving complex AI problems** and building **real-world applications**  
