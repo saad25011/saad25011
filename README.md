@@ -46,9 +46,52 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saad-khan-ai&show_icons=true&locale=en&layout=compact" alt="saad-khan-ai" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saad25011&show_icons=true&locale=en&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+<!-- 📊 Top Stats Row -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saad25011&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saad-khan-ai&show_icons=true&locale=en&count_private=true" alt="saad-khan-ai" /></p>
+---
+
+<!-- 🚀 Featured Projects Row -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/saad25011/Ai-Assistant">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saad25011&repo=Ai-Assistant" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/saad25011/chat-with-AI">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saad25011&repo=chat-with-AI" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/saad25011/Another-Repo">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saad25011&repo=Another-Repo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/saad25011/One-More-Repo">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saad25011&repo=One-More-Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
