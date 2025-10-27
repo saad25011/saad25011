@@ -30,9 +30,21 @@
 - 🔹 Experienced with **Azure & AWS cloud deployment**  
 - 🔹 Passionate about **solving complex AI problems** and building **real-world applications**  
 <p align="left">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ0N3p3aHF5d2lkNGVyYW1ia3VnbXJ5ejQ5ODhicDZnazJmbGJkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="300">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG0xa3d4c2kwczk0cjk5Ynp3ejRtYzdiY2dsZzR4dm14dnl5b3I4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhqNm9qZTdoa2J1Z2M1OXpyOHFncnhuNGx1ZTBxbng2ZHc0cjgzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EKCwpOU54gQO5xU9V0/giphy.gif" width="300">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
 </p>
 ---
