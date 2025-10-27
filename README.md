@@ -56,27 +56,34 @@
 ---
 
 ### 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saad25011&show_icons=true&locale=en&count_private=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-<!-- 📊 Top Stats Row -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saad25011&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-<!-- 🧩 GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saad25011&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
-</p>
 
----
+<!-- 📈 Centered GitHub Stats & Graph Section -->
+
+<div align="center">
+  <!-- 🧩 GitHub Activity Graph -->
+  <p align="center" style="margin-top:10px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=saad25011&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+  </p>
+  <!-- 🚀 GitHub Stats -->
+  <table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+    <tr>
+      <td align="center" style="border:none;">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saad25011&show_icons=true&locale=en&count_private=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- 📊 Top Languages -->
+  <table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse; margin-top:10px;">
+    <tr>
+      <td align="center" style="border:none;">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saad25011&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 ---
 
