@@ -28,7 +28,9 @@
 - 🔹 **Certified AI Engineer (DataCamp)** specializing in **LLMs, RAG, and Generative AI**  
 - 🔹 Skilled in **Python, LangChain, OpenAI, ChromaDB, FastAPI, Flask, React**  
 - 🔹 Experienced with **Azure & AWS cloud deployment**  
-- 🔹 Passionate about **solving complex AI problems** and building **real-world applications**  
+- 🔹 Passionate about **solving complex AI problems** and building **real-world applications**
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAme3rAijaz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 <p align="left">
 <img align="right" height="150" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif"  />
 
