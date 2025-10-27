@@ -25,9 +25,9 @@
 
 ---
 
-<table>
+<table style="border:none;">
   <tr>
-    <td style="width:70%; vertical-align:top;">
+    <td style="width:70%; vertical-align:top; border:none;">
       
 ### 🚀 About Me
 - 🔹 AI Engineer with **4 years of hands-on experience** in AI & cloud  
@@ -37,11 +37,12 @@
 - 🔹 Passionate about **solving complex AI problems** and building **real-world applications**
 
     </td>
-    <td style="width:30%; text-align:right;">
+    <td style="width:30%; text-align:right; border:none;">
       <img height="150" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" />
     </td>
   </tr>
 </table>
+
 
 
 ---
