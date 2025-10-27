@@ -25,6 +25,10 @@
 
 ---
 
+<table>
+  <tr>
+    <td style="width:70%; vertical-align:top;">
+      
 ### 🚀 About Me
 - 🔹 AI Engineer with **4 years of hands-on experience** in AI & cloud  
 - 🔹 **Certified AI Engineer (DataCamp)** specializing in **LLMs, RAG, and Generative AI**  
@@ -32,11 +36,13 @@
 - 🔹 Experienced with **Azure & AWS cloud deployment**  
 - 🔹 Passionate about **solving complex AI problems** and building **real-world applications**
 
-<p align="left">
-<img align="right" height="150" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif"  />
+    </td>
+    <td style="width:30%; text-align:right;">
+      <img height="150" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" />
+    </td>
+  </tr>
+</table>
 
-
-</p>
 
 ---
 
